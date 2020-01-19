@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/skeeto/optparse-go"
-	"github.com/skeeto/passphrase2pgp/openpgp"
+	"nullprogram.com/x/optparse"
+	"nullprogram.com/x/passphrase2pgp/openpgp"
 	"lukechampine.com/frand"
 )
 
